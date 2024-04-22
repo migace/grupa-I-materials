@@ -13,3 +13,5 @@ async function fetchData() {
 fetchDataBtnEl.addEventListener("click", function () {
   fetchData();
 });
+
+// https://tinyurl.com/agh-tech-web-js-cwiczenia
